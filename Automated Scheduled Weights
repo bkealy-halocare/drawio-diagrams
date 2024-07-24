@@ -81,7 +81,7 @@
         <mxCell id="Ov0dXK8CDHop0n5HIGmI-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Ov0dXK8CDHop0n5HIGmI-5">
           <mxGeometry x="45" y="420" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ov0dXK8CDHop0n5HIGmI-15" value="alt [alarmTag == 704]" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ov0dXK8CDHop0n5HIGmI-15" value="alt [alarmTag == 704 &amp;amp;&amp;amp; alu_text.type === &quot;weight&quot;]" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="300" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ov0dXK8CDHop0n5HIGmI-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Ov0dXK8CDHop0n5HIGmI-15">
